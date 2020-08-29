@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/alert_dialog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alert_dialog/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/atmcon/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/atmcon/build" />
+      <excludeFolder url="file://$MODULE_DIR$/caraoucoroa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/caraoucoroa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/consumo_servico_avancado/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/consumo_servico_avancado/build" />
+      <excludeFolder url="file://$MODULE_DIR$/entrada_dados/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/entrada_dados/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app_aulafacol/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app_aulafacol/build" />
+      <excludeFolder url="file://$MODULE_DIR$/frases_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frases_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/jokenpo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/jokenpo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/meu_primeiro_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/meu_primeiro_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navegacao/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navegacao/build" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube/build" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
